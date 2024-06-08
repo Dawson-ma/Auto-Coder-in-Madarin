@@ -17,7 +17,7 @@ Mandarin, cleaned the data by removing non-functional code, and reformatted it i
 ## Quantization and Low-Rank Adapters
 
 ## Sample Output
-<img src="./images/output.png" width="50%">
+<img src="./images/output.png" width="100%">
 
   
 For further details on the implementation and usage of the model, please refer to the [code](https://github.com/Dawson-ma/Auto-Coder-in-Madarin/blob/main/ProfessionalCoderInMadarin.ipynb) provided.
